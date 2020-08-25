@@ -1,0 +1,37 @@
+https://www.mouser.hk/ProductDetail/Texas-Instruments/TLV9051SIDBVR?qs=sGAEpiMZZMtCHixnSjNA6DR3fLUkKTrOGS%2FhI0Aridg%3D
+TLV9051SIDBVR
+
+opamp to be used as differntial opamp
+
+https://www.mouser.hk/ProductDetail/Texas-Instruments/TLV9061IDCKR?qs=sGAEpiMZZMtCHixnSjNA6POfvxHi7ti29%252BYazPg%252BTv0%3D
+TLV9061IDCKR
+
+
+In rectangle board, input capacitor added for 5V to 3.3V converter
+
+CWxLenovo
+
+眀德
+
+need plastic strap for T head
+
+Interesting BLDC
+https://item.taobao.com/item.htm?spm=2013.1.w4004-21819911033.12.6ff55ad7NN1Q8B&id=597989233255
+
+https://flipsky.net/collections/e-skateboard/products/bldc-belt-motor-6384-4000w-for-electric-skateboard?variant=29756675260476
+
+https://www.amazon.com/Aeloa-Motor-6384-Brushless-Balancing-Skateboard/dp/B07WVK4L2S/ref=sr_1_26?dchild=1&keywords=BLDC&qid=1594365374&sr=8-26
+
+
+graduation this yeara
+certificate application
+transcript
+email both to david HR
+
+IOBoard x 2
+ENC IMU x 1
+power distribution board x 1
+ORing board 90A x 1
+ORing board 20A x 1
+male T to molex * 3
+micro B x 7
