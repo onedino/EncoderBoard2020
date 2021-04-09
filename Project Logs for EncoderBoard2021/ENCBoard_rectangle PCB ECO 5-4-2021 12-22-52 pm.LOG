@@ -1,0 +1,239 @@
+Removed Pin From Net: NetName=3V3 Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=5V Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=5V Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=5V Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=ENC1-1
+Removed Pin From Net: NetName=5V Pin=ENC1-2
+Removed Pin From Net: NetName=GND Pin=ENC2-1
+Removed Pin From Net: NetName=5V Pin=ENC2-2
+Removed Pin From Net: NetName=ENC1_CHA Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=5V Pin=U3-5
+Removed Pin From Net: NetName=ENC1_CHB Pin=U5-1
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=NetR10_2 Pin=U5-3
+Removed Pin From Net: NetName=5V Pin=U5-5
+Removed Pin From Net: NetName=ENC2_CHA Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=5V Pin=U9-5
+Removed Pin From Net: NetName=ENC2_CHB Pin=U11-1
+Removed Pin From Net: NetName=GND Pin=U11-2
+Removed Pin From Net: NetName=5V Pin=U11-5
+Removed Pin From Net: NetName=3V3 Pin=U15-1
+Removed Pin From Net: NetName=GND Pin=U15-12
+Removed Pin From Net: NetName=3V3 Pin=U15-13
+Removed Pin From Net: NetName=ENC1_CHA Pin=U15-14
+Removed Pin From Net: NetName=ENC1_CHB Pin=U15-15
+Removed Pin From Net: NetName=GND Pin=U15-18
+Removed Pin From Net: NetName=3V3 Pin=U15-19
+Removed Pin From Net: NetName=GND Pin=U15-31
+Removed Pin From Net: NetName=3V3 Pin=U15-32
+Removed Pin From Net: NetName=N\R\S\T\ Pin=U15-36
+Removed Pin From Net: NetName=UART1_TX Pin=U15-42
+Removed Pin From Net: NetName=UART1_RX Pin=U15-43
+Removed Pin From Net: NetName=USB_DN Pin=U15-44
+Removed Pin From Net: NetName=USB_DP Pin=U15-45
+Removed Pin From Net: NetName=SWDIO Pin=U15-46
+Removed Pin From Net: NetName=GND Pin=U15-47
+Removed Pin From Net: NetName=3V3 Pin=U15-48
+Removed Pin From Net: NetName=SWCLK Pin=U15-49
+Removed Pin From Net: NetName=ENC2_CHA Pin=U15-50
+Removed Pin From Net: NetName=ENC2_CHB Pin=U15-55
+Removed Pin From Net: NetName=LED1 Pin=U15-57
+Removed Pin From Net: NetName=LED2 Pin=U15-58
+Removed Pin From Net: NetName=LED3 Pin=U15-59
+Removed Pin From Net: NetName=GND Pin=U15-63
+Removed Pin From Net: NetName=3V3 Pin=U15-64
+Removed Pin From Net: NetName=3V3 Pin=X1-1
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=3V3 Pin=X1-4
+Removed Member From Class: ClassName=U_STM32F401R Member=C15
+Removed Member From Class: ClassName=U_EncoderHeader Member=C23
+Removed Member From Class: ClassName=U_EncoderHeader Member=C24
+Removed Member From Class: ClassName=U_EncoderHeader Member=C25
+Removed Member From Class: ClassName=U_EncoderHeader Member=ENC1
+Removed Member From Class: ClassName=U_EncoderHeader Member=ENC2
+Removed Member From Class: ClassName=U_EncoderHeader Member=R8
+Removed Member From Class: ClassName=U_EncoderHeader Member=R9
+Removed Member From Class: ClassName=U_EncoderHeader Member=R10
+Removed Member From Class: ClassName=U_EncoderHeader Member=R11
+Removed Member From Class: ClassName=U_EncoderHeader Member=R14
+Removed Member From Class: ClassName=U_EncoderHeader Member=R15
+Removed Member From Class: ClassName=U_EncoderHeader Member=R16
+Removed Member From Class: ClassName=U_EncoderHeader Member=R17
+Removed Member From Class: ClassName=U_EncoderHeader Member=U3
+Removed Member From Class: ClassName=U_EncoderHeader Member=U5
+Removed Member From Class: ClassName=U_EncoderHeader Member=U9
+Removed Member From Class: ClassName=U_EncoderHeader Member=U11
+Removed Member From Class: ClassName=U_STM32F401R Member=U15
+Removed Member From Class: ClassName=U_STM32F401R Member=X1
+Change Component Footprint: Designator=U3 Old Footprint=SOT23-5 New Footprint=SOT23-3
+Change Component Comment : Designator=U3 Old Comment=TLV9051 New Comment=PESD1CAN,215
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC1608X55N"; UniqueID = "\TLHCXMHT\MGBEXLTB" ("\TLHCXMHT\MGBEXLTB")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC1608X55N"; UniqueID = "\TLHCXMHT\QRNOJKNE" ("\TLHCXMHT\QRNOJKNE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC1608X55N"; UniqueID = "\TLHCXMHT\FUGRCKJY" ("\TLHCXMHT\FUGRCKJY")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608X90N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608X90N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1608X90N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=CAN1(HDR2X3_2.54MMP_RA)
+Added Component: Designator=IC1(QFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32F072RBT7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f072rbt7/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/STM32F072RBT7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F072RBT7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F072RBT7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F072RBT7?qs=U58vgkJzipSwHgVHrxMqQQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC127P600X175-8AN)
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=3V3 Pin=IC1-1
+Added Pin To Net: NetName=LED1 Pin=IC1-4
+Added Pin To Net: NetName=LED2 Pin=IC1-5
+Added Pin To Net: NetName=LED3 Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=3V3 Pin=IC1-13
+Added Pin To Net: NetName=ENC2_CHA Pin=IC1-14
+Added Pin To Net: NetName=ENC2_CHB Pin=IC1-15
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=3V3 Pin=IC1-19
+Added Pin To Net: NetName=N\R\S\T\ Pin=IC1-20
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=3V3 Pin=IC1-32
+Added Pin To Net: NetName=ENC1_CHA Pin=IC1-41
+Added Pin To Net: NetName=ENC1_CHB Pin=IC1-42
+Added Pin To Net: NetName=UART1_RX Pin=IC1-43
+Added Pin To Net: NetName=USB_DN Pin=IC1-44
+Added Pin To Net: NetName=USB_DP Pin=IC1-45
+Added Pin To Net: NetName=SWDIO Pin=IC1-46
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=3V3 Pin=IC1-48
+Added Pin To Net: NetName=SWCLK Pin=IC1-49
+Added Pin To Net: NetName=UART1_TX Pin=IC1-58
+Added Pin To Net: NetName=GND Pin=IC1-63
+Added Pin To Net: NetName=3V3 Pin=IC1-64
+Added Pin To Net: NetName=ENC1_CHB Pin=P1-1
+Added Pin To Net: NetName=5V Pin=P1-2
+Added Pin To Net: NetName=ENC1_CHA Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=ENC2_CHB Pin=P2-1
+Added Pin To Net: NetName=5V Pin=P2-2
+Added Pin To Net: NetName=ENC2_CHA Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetR10_2 Pin=U4-5
+Added Pin To Net: NetName=3V3D Pin=C17-1
+Added Pin To Net: NetName=3V3D Pin=U4-3
+Added Net: Name=3V3D
+Added Pin To Net: NetName=BOOT0 Pin=IC1-60
+Added Pin To Net: NetName=BOOT0 Pin=R26-2
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=CAN1_RX Pin=IC1-61
+Added Pin To Net: NetName=CAN1_RX Pin=U4-4
+Added Net: Name=CAN1_RX
+Added Pin To Net: NetName=CAN1_TX Pin=IC1-62
+Added Pin To Net: NetName=CAN1_TX Pin=U4-1
+Added Net: Name=CAN1_TX
+Added Pin To Net: NetName=CAN2_H Pin=CAN1-3
+Added Pin To Net: NetName=CAN2_H Pin=R9-2
+Added Pin To Net: NetName=CAN2_H Pin=U3-2
+Added Pin To Net: NetName=CAN2_H Pin=U4-7
+Added Net: Name=CAN2_H
+Added Pin To Net: NetName=CAN2_L Pin=CAN1-4
+Added Pin To Net: NetName=CAN2_L Pin=R9-1
+Added Pin To Net: NetName=CAN2_L Pin=U3-1
+Added Pin To Net: NetName=CAN2_L Pin=U4-6
+Added Net: Name=CAN2_L
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=CAN1-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=CAN1-5
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U4-8
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NRST Pin=C16-2
+Added Pin To Net: NetName=NRST Pin=IC1-7
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Net: Name=NRST
+Added Pin To Net: NetName=UART2_RX Pin=IC1-17
+Added Pin To Net: NetName=UART2_RX Pin=U2-14
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=IC1-16
+Added Pin To Net: NetName=UART2_TX Pin=U2-13
+Added Net: Name=UART2_TX
+Added Member To Class: ClassName=U_EncoderHeader Member=Component C5 Cap
+Added Member To Class: ClassName=U_STM32F401R Member=Component C6 Cap
+Added Member To Class: ClassName=U_STM32F401R Member=Component C17 Cap
+Added Member To Class: ClassName=U_STM32F401R Member=Component CAN1 Header, 2x3-pin
+Added Member To Class: ClassName=U_STM32F401R Member=Component IC1 STM32F072RBT7
+Added Member To Class: ClassName=U_EncoderHeader Member=Component P1 Header 5
+Added Member To Class: ClassName=U_EncoderHeader Member=Component P2 Header 5
+Added Member To Class: ClassName=U_STM32F401R Member=Component R8 Res1
+Added Member To Class: ClassName=U_STM32F401R Member=Component R9 Res1
+Added Member To Class: ClassName=U_STM32F401R Member=Component R10 Res1
+Added Member To Class: ClassName=U_STM32F401R Member=Component U3 PESD1CAN,215
+Added Member To Class: ClassName=U_STM32F401R Member=Component U4 3.3V CAN bus transceiver
+Added Room: Name=U_IMU

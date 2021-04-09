@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=CAN1-2
+Removed Pin From Net: NetName=GND Pin=CAN1-5
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Member From Class: ClassName=U_STM32F401R Member=CAN1
+Removed Member From Class: ClassName=U_STM32F401R Member=U4

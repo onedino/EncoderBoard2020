@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=5V Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=5V Pin=C27-2
+Removed Member From Class: ClassName=U_EncoderHeader Member=C26
+Removed Member From Class: ClassName=U_EncoderHeader Member=C27
+Added Room: Name=U_IMU

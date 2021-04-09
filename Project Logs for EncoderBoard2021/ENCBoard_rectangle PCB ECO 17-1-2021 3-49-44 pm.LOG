@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=ENC1_CHI+ Pin=R12-1
+Removed Pin From Net: NetName=ENC1_CHI- Pin=R13-2
+Removed Pin From Net: NetName=ENC2_CHI+ Pin=R18-1
+Removed Pin From Net: NetName=ENC2_CHI- Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=5V Pin=U7-5
+Removed Pin From Net: NetName=GND Pin=U13-2
+Removed Pin From Net: NetName=5V Pin=U13-5
+Removed Member From Class: ClassName=U_EncoderHeader Member=R12
+Removed Member From Class: ClassName=U_EncoderHeader Member=R13
+Removed Member From Class: ClassName=U_EncoderHeader Member=R18
+Removed Member From Class: ClassName=U_EncoderHeader Member=R19
+Removed Member From Class: ClassName=U_EncoderHeader Member=U7
+Removed Member From Class: ClassName=U_EncoderHeader Member=U13

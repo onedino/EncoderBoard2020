@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Altium_project\EncoderBoard2021\ENCBoard_rectangle.PcbDoc
+RuleKind=Clearance|RuleName=GND plane|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

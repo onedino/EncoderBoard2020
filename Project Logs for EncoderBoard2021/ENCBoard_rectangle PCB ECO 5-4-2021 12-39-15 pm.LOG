@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=3V3 Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Member From Class: ClassName=U_STM32F401R Member=C6
+Removed Member From Class: ClassName=U_STM32F401R Member=C14
+Removed Member From Class: ClassName=U_STM32F401R Member=C17
+Removed Member From Class: ClassName=U_STM32F401R Member=CAN1
+Removed Member From Class: ClassName=U_STM32F401R Member=R8
+Removed Member From Class: ClassName=U_STM32F401R Member=R9
+Removed Member From Class: ClassName=U_STM32F401R Member=R10
+Removed Member From Class: ClassName=U_STM32F401R Member=U3
+Removed Member From Class: ClassName=U_STM32F401R Member=U4

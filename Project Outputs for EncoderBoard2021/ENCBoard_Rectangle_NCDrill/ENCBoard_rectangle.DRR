@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ENCBoard_rectangle.PcbDoc   5/4/2021  1:38:36 pm
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ENCBoard_rectangle-RoundHoles.TXT
+ASCII SlotHoles File : ENCBoard_rectangle-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             78        PTH        0.00inch (0.00mm)
+T2      26mil (0.65mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T3      26mil (0.65mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T4      32mil (0.813mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T6      42mil (1.067mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              105
+
+Total Processing Time (hh:mm:ss) : 00:00:00
